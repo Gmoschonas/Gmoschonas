@@ -1,6 +1,17 @@
 # About Me
 
-With over 25 years of expertise in the information technology and services industry, I am a highly skilled and seasoned Software Engineer known for delivering high-quality, robust software solutions. My comprehensive skill set spans Databases, Web Applications, SharePoint, Android, AI, Social Media, and Quality Assurance. I have a proven track record in designing and developing complex software systems tailored to meet the unique needs of clients and end-users.
+A highly motivated Junior Software Developer with a Bachelor's degree in Computing
+(Artificial Intelligence) from the University of Essex (Aegean College). I have hands-on
+experience from a Part-Time Software Developer role at KMK MARINE CONSULTANTS,
+where I contributed to database solutions, Web and desktop applications. My academic
+work is highlighted by my diploma thesis, the development of a comprehensive Customer
+Relationship Management (CRM) system. My background is further supported by a
+diverse portfolio of university projects, demonstrating strong skills in full-stack web
+development (.NET, PHP, MSSQL & MySQL), cross-platform mobile applications (.NET
+MAUI), desktop software (.NET, Java, Python Tkinter), and advanced AI/ML projects
+including neural networks, NLP, and data analytics. I am eager to leverage my
+foundational programming, problem-solving, and database management abilities in a
+collaborative development environment.
 
 ## Professional Experience and Skills
 
@@ -16,18 +27,18 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 
 ## Projects
 
-- [Language Learning Mobile Application](https://github.com/pbernalis/pbernalis/blob/main/MAUILanguageLearner/README.md): Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
-- [Teacher Management Application](https://github.com/pbernalis/pbernalis/blob/main/JavaTeacherManager/README.md): Java-based desktop application demonstrating OOP principles with Swing and MySQL.
-- [Retail Analytics and Market Analysis Project](https://github.com/pbernalis/pbernalis/blob/main/Market-Analysis-R/README.md): Data analysis using R for statistical analysis and predictive modeling.
-- [E-commerce Application](https://github.com/pbernalis/pbernalis/blob/main/PizzaBites/Readme.md): Full-stack solution built with PHP and MySQL.
+- [Language Learning Mobile Application](https://github.com/Gmoschonas/pbernalis/blob/main/MAUILanguageLearner/README.md): Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
+- [Teacher Management Application](https://github.com/pbernalis/Gmoschonas/blob/main/JavaTeacherManager/README.md): Java-based desktop application demonstrating OOP principles with Swing and MySQL.
+- [Retail Analytics and Market Analysis Project](https://github.com/Gmoschonas/pbernalis/blob/main/Market-Analysis-R/README.md): Data analysis using R for statistical analysis and predictive modeling.
+- [E-commerce Application](https://github.com/pbernalis/Gmoschonas/blob/main/PizzaBites/Readme.md): Full-stack solution built with PHP and MySQL.
 - [BookLibraryManagementSystem](https://github.com/pbernalis/pbernalis/blob/main/BookLibraryManagementSystem/README.md).: Python application using Tkinter for managing library operations.
 - **CRM System**: Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration.
-- [Simple ASP.NET Web API](https://github.com/pbernalis/pbernalis/blob/main/SimpleWebAPI/README.md): A simple ASP.NET Web API project demonstrating user authentication and logging functionalities with OWIN, Entity Framework, and Log4Net.
-- [Hospital Information System](https://github.com/pbernalis/pbernalis/blob/main/Hospital%20Information%20System%20Oracle%20APEX/README.md): This project is a comprehensive Hospital Information System developed using Oracle APEX and Oracle SQL Developer Data Modeler. It demonstrates database design, schema creation, application development, and role-based access control.
-- [Neural Network Model Comparison AI](https://github.com/pbernalis/pbernalis/blob/main/neural-network-model-comparisont-AI/README.md): A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
-- [AI Text Analyzer(AdaptiveChat AI)](https://github.com/pbernalis/pbernalis/blob/main/AITextAnalyzer/README.md): A comprehensive AI-powered tool for text analysis, categorization, sentiment analysis, and interactive prompt-response sessions with translation capabilities.
+- [Simple ASP.NET Web API](https://github.com/pbernalis/Gmoschonas/blob/main/SimpleWebAPI/README.md): A simple ASP.NET Web API project demonstrating user authentication and logging functionalities with OWIN, Entity Framework, and Log4Net.
+- [Hospital Information System](https://github.com/pbernalis/Gmoschonas/blob/main/Hospital%20Information%20System%20Oracle%20APEX/README.md): This project is a comprehensive Hospital Information System developed using Oracle APEX and Oracle SQL Developer Data Modeler. It demonstrates database design, schema creation, application development, and role-based access control.
+- [Neural Network Model Comparison AI](https://github.com/Gmoschonas/pbernalis/blob/main/neural-network-model-comparisont-AI/README.md): A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
+- [AI Text Analyzer(AdaptiveChat AI)](https://github.com/Gmoschonas/pbernalis/blob/main/AITextAnalyzer/README.md): A comprehensive AI-powered tool for text analysis, categorization, sentiment analysis, and interactive prompt-response sessions with translation capabilities.
 
-**Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) messages for any inquiries or access requests.**
+**Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/Gmoschonas/) messages for any inquiries or access requests.**
 
 
 ## Significant Projects from Professional Experience
