@@ -1,85 +1,104 @@
-# About Me
+# 👋 Hi, I'm Gerasimos Moschonas!
 
-A highly motivated Junior Software Developer with a Bachelor's degree in Computing
-(Artificial Intelligence) from the University of Essex (Aegean College). I have hands-on
-experience from a Part-Time Software Developer role at KMK MARINE CONSULTANTS,
-where I contributed to database solutions, Web and desktop applications. My academic
-work is highlighted by my diploma thesis, the development of a comprehensive Customer
-Relationship Management (CRM) system. My background is further supported by a
-diverse portfolio of university projects, demonstrating strong skills in full-stack web
-development (.NET, PHP, MSSQL & MySQL), cross-platform mobile applications (.NET
-MAUI), desktop software (.NET, Java, Python Tkinter), and advanced AI/ML projects
-including neural networks, NLP, and data analytics. I am eager to leverage my
-foundational programming, problem-solving, and database management abilities in a
-collaborative development environment.
+I'm a **Junior Software Developer** with a **BSc in Computing (Artificial Intelligence)** from the University of Essex (Aegean College, 2024). Passionate about crafting innovative solutions, I specialize in **full-stack web development**, **cross-platform mobile apps**, and **AI/ML applications**. With hands-on experience at **KMK Marine Consultants** and a diverse portfolio of university projects, I’m eager to collaborate on impactful software projects.
 
-## Professional Experience and Skills
+🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/gmoschonas/) | [Email](mailto:gerasimos.mosxonas@gmail.com)  
+📍 **Based in**: Athens, Greece
 
-- **Extensive Software Development Lifecycle Expertise**: Proficient in requirements gathering, design, development, testing, and deployment.
-- **Project Management Proficiency**: Demonstrated ability to manage projects of varying scales, from small-scale applications to large-scale enterprise systems.
-- **Strong Collaboration and Communication Skills**: Effective in working with diverse stakeholders, fostering teamwork, and ensuring project success.
+---
 
-I am dedicated to staying at the forefront of technology, continuously exploring innovative solutions to solve complex problems and enhance user experience. My unwavering commitment to achieving exceptional results and aligning with business objectives underscores my passion for excellence in software engineering.
+## 🚀 About Me
 
-## Notable Projects and Repositories
+- **Background**: Graduated with a BSc in Computing (AI), focusing on software engineering and AI-driven solutions. My diploma thesis, a **.NET Core CRM system**, showcases my ability to build robust, user-focused applications.
+- **Experience**: Developed database solutions, .NET desktop apps, and a web-based quiz platform at **KMK Marine Consultants** (2023–2024). Built a language-learning mobile app as a self-employed developer at **Humanigram** (2022–2023).
+- **Skills**: Proficient in **.NET (Core, Framework, MAUI)**, **Java**, **Python**, **PHP**, **SQL (MySQL, SQL Server, Oracle)**, and **AI/ML (Keras/TensorFlow, NLP)**. Strong in database design, RESTful APIs, and OOP principles.
+- **Portfolio**: My GitHub hosts a range of projects, from e-commerce platforms to AI text analyzers. Some repos are private—reach out via [LinkedIn](https://www.linkedin.com/in/gmoschonas/) for access!
 
-I have curated a selection of my significant projects on my GitHub profile. If you would like access to view my work, please contact me directly.
+---
 
-## Projects
+## 💻 Skills
 
-- [Language Learning Mobile Application](https://github.com/Gmoschonas/Gmoschonas/blob/main/MAUILanguageLearner/README.md): Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
-- [Teacher Management Application](https://github.com/Gmoschonas/Gmoschonas/blob/main/JavaTeacherManager/README.md): Java-based desktop application demonstrating OOP principles with Swing and MySQL.
-- [Retail Analytics and Market Analysis Project](https://github.com/Gmoschonas/Gmoschonas/blob/main/Market-Analysis-R/README.md): Data analysis using R for statistical analysis and predictive modeling.
-- [E-commerce Application](https://github.com/Gmoschonas/Gmoschonas/blob/main/PizzaBites/Readme.md): Full-stack solution built with PHP and MySQL.
-- [BookLibraryManagementSystem](https://github.com/Gmoschonas/Gmoschonas/blob/main/BookLibraryManagementSystem/README.md).: Python application using Tkinter for managing library operations.
-- **CRM System**: Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration.
-- [Simple ASP.NET Web API](https://github.com/Gmoschonas/Gmoschonas/blob/main/SimpleWebAPI/README.md): A simple ASP.NET Web API project demonstrating user authentication and logging functionalities with OWIN, Entity Framework, and Log4Net.
-- [Hospital Information System](https://github.com/Gmoschonas/Gmoschonas/blob/main/Hospital%20Information%20System%20Oracle%20APEX/README.md): This project is a comprehensive Hospital Information System developed using Oracle APEX and Oracle SQL Developer Data Modeler. It demonstrates database design, schema creation, application development, and role-based access control.
-- [Neural Network Model Comparison AI](https://github.com/Gmoschonas/Gmoschonas/blob/main/neural-network-model-comparisont-AI/README.md): A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
-- [AI Text Analyzer(AdaptiveChat AI)](https://github.com/Gmoschonas/Gmoschonas/blob/main/AITextAnalyzer/README.md): A comprehensive AI-powered tool for text analysis, categorization, sentiment analysis, and interactive prompt-response sessions with translation capabilities.
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-**Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/Gmoschonas/) messages for any inquiries or access requests.**
+- **Frameworks**: .NET Core, .NET MAUI, ASP.NET, Entity Framework, Swing, Tkinter
+- **AI/ML**: Neural networks, NLP, SentenceTransformer
+- **Other**: RESTful APIs, OAuth2, database schema design, statistical analysis
 
+---
 
-## Significant Projects from Professional Experience
+## 🌟 Featured Projects
 
-### European Dynamics
-**Senior Software Engineer (Oct 2012 - Mar 2016)**
-- Led multiple projects involving design, migration, development, integration, testing, and documentation.
-- Developed and deployed SharePoint solutions, enhancing collaboration and document management.
-- Projects include:
-  - **ECDC**: Implemented an Archive Management & CMS system, improving information accessibility.
-  - **COR SC 11**: Successfully deployed a robust Archive Management System & CMS, enhancing archival processes.
-  - **EIOPA SC 11**: Developed a comprehensive data collection and repository system, streamlining data management and publication.
+Here’s a selection of my work. Check out the READMEs for details, or contact me for access to private repos!
 
-### European Chemicals Agency (ECHA)
-**Migration Project for European Institution (Oct 2012 - Jul 2014)**
-- Conducted design, migration, development, integration, testing, and documentation of the SharePoint solution.
-- Performed a technical audit on the MOSS 2007 environment and prepared migration projects.
-- Migrated data and functionalities from MOSS 2007 to MOSS 2010, enhancing system performance and usability.
+- **[CRMCore](https://github.com/Gmoschonas/Gmoschonas/blob/main/CRMCore/README.md)**  
+  A comprehensive .NET Core CRM system (diploma thesis) with user authentication, contact management, and sales reporting. Built with Entity Framework Core and SQL Server.
 
-### UniPath Systems
-**Senior Software Engineer / Key Analyst (Nov 2011 - Oct 2012)**
-- Designed and developed a Unified Messaging Solution integrating email, voicemail, telex, and fax functionalities.
-- Leveraged Microsoft SharePoint, ASP.NET, and SQL Server for comprehensive business solutions.
+- **[MAUILanguageLearner](https://github.com/Gmoschonas/Gmoschonas/blob/main/MAUILanguageLearner/README.md)**  
+  A cross-platform mobile app for language learning using .NET MAUI. Features real-time translation, text-to-speech, and SQLite storage.
 
-### IntelliSolutions
-**Senior Software Consultant (Mar 2007 - Oct 2012)**
-- Worked on multiple subcontracting projects for clients such as Allianz Group, Hellenic Navy, and Piraeus Bank.
-- Specialized in C#, ASP.NET, and SQL Server for developing various enterprise applications.
+- **[AI Text Analyzer (AdaptiveChat AI)](https://github.com/Gmoschonas/Gmoschonas/blob/main/AITextAnalyzer/README.md)**  
+  An AI-powered tool for multilingual text analysis, sentiment analysis, and interactive prompt-response using SentenceTransformer and NLP.
 
-### Minerva Marine Agency, Inc.
-**Senior Software Engineer / Key Analyst (Jul 2011 - Nov 2011)**
-- Developed a Business Process Management solution to optimize core company management procedures.
-- Utilized SharePoint 2010, IIS, and SQL Server for robust document and workflow management.
+- **[PizzaBites E-commerce](https://github.com/Gmoschonas/Gmoschonas/blob/main/PizzaBites/Readme.md)**  
+  A full-stack e-commerce web app built with PHP and MySQL, featuring user registration, product CRUD, and a shopping cart.
 
-## Additional Projects
+- **[Retail Analytics](https://github.com/Gmoschonas/Gmoschonas/blob/main/Market-Analysis-R/README.md)**  
+  Market analysis using R for statistical modeling and predictive analytics (e.g., linear regression, RMSE: 0.881).
 
-- **Machine Learning Model for Predictive Maintenance**: Developed a machine learning model using Python and scikit-learn to predict equipment failures and schedule maintenance.
-- **Comprehensive Car Market Statistics Application**: Developed for ANTENA S.A., providing valuable market insights.
-- **Financial Management Solutions for MARFIN Investment Group Holdings S.A.**: Implemented solutions to improve data accuracy and management.
-- **Document Processing Systems for Hellenic Navy**: Enhanced administrative efficiency through advanced document processing systems.
-- **Advanced Business Services Applications for ICAP Group**: Enhanced operational efficiency with tailored applications.
-- **Secure Web Applications for Allianz Group**: Improved customer interactions and service delivery through secure web applications.
+- **[Hospital Information System](https://github.com/Gmoschonas/Gmoschonas/blob/main/Hospital%20Information%20System%20Oracle%20APEX/README.md)**  
+  A robust system using Oracle APEX and SQL Developer for hospital data management with role-based access.
 
-I am passionate about staying current with the latest technologies and industry trends, continuously seeking innovative ways to solve problems and enhance the user experience. My dedication to exceptional results and business objectives drives my commitment to excellence in software engineering.
+Explore more on my [GitHub](https://github.com/Gmoschonas)!
+
+---
+
+## 🛠️ Work Experience
+
+- **KMK Marine Consultants** | Software Developer (Part-Time, Sep 2023 – Oct 2024)  
+  - Designed SQL Server databases for company data (seminars, clients, accounting).  
+  - Built .NET Framework desktop apps for CRUD operations and data reporting.  
+  - Developed a web-based quiz app with secure login using .NET and SQL Server.  
+  - Supported ISO compliance through procedural manuals.
+
+- **Humanigram (Self-Employed)** | Software Developer (May 2022 – Feb 2023)  
+  - Created a language-learning mobile app with .NET MAUI, .NET Core 8, and SQL Server.  
+  - Implemented flashcard-based learning, user authentication, and score tracking.
+
+---
+
+## 🎓 Education
+
+- **BSc in Computing (Artificial Intelligence)**  
+  University of Essex (Aegean College), Athens, Greece | 2021–2024  
+  Focused on software development, AI/ML, and database systems.
+
+---
+
+## 🌐 Languages
+
+- **Greek**: Native
+- **English**: C1 (Proficient in listening, reading, writing, speaking)
+
+---
+
+## 📊 GitHub Stats
+
+![Gerasimos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gmoschonas&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gmoschonas&layout=compact&theme=radical)
+
+---
+
+## 📬 Get in Touch
+
+Interested in my work or want to collaborate? Message me on [LinkedIn](https://www.linkedin.com/in/gmoschonas/) or email me at [gerasimos.mosxonas@gmail.com](mailto:gerasimos.mosxonas@gmail.com). For access to private repositories, please reach out directly!
+
+Thanks for visiting my profile! 😄
