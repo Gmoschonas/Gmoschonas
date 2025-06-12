@@ -1,4 +1,4 @@
-[Return to Panagiotis Bernalis' GitHub Profile for more innovative projects](https://github.com/pbernalis)
+[Return to Gerasimos Moschonas' GitHub Profile for more innovative projects](https://github.com/Gmoschonas)
 
 # Teacher Management Application
 This repository contains a Java-based application developed for the Object-Oriented Programming and Commercial Application Development course. The application is designed to manage teacher records in a MySQL database, showcasing key OOP principles such as inheritance, encapsulation, and polymorphism. The graphical user interface (GUI) built with Swing enables users to create, search, update, and delete teacher records, demonstrating practical applications of OOP concepts.
@@ -100,11 +100,11 @@ The form for updating or deleting an existing teacher.
 
 
 ## Contact
-For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/Gmoschonas/).
 
 ## License
 
-This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/Gmoschonas/Gmoschonas/blob/main/blob/main/License.md) file.
 
 
 
