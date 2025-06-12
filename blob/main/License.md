@@ -1,6 +1,6 @@
 # Custom License
 
-This repository and its contents are the property of [Panagiotis Bernalis]. The code, scripts, and other resources provided in this repository are intended solely for personal use and are not to be shared, distributed, or used for any other purpose without explicit permission from the owner.
+This repository and its contents are the property of [Gerasimos Moschonas]. The code, scripts, and other resources provided in this repository are intended solely for personal use and are not to be shared, distributed, or used for any other purpose without explicit permission from the owner.
 
 ## Permissions
 
@@ -16,7 +16,7 @@ This repository and its contents are the property of [Panagiotis Bernalis]. The 
 
 ## Contact
 
-For any questions, permissions, or requests, please contact [Panagiotis Bernalis] at [pbernalis@gmail.com].
+For any questions, permissions, or requests, please contact [Gerasimos Moschonas] at [gerasimos.mosxonas@gmail.com].
 
 ## Disclaimer
 
