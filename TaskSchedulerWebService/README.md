@@ -1,4 +1,4 @@
-[Return to Panagiotis Bernalis' GitHub Profile for more innovative projects](https://github.com/pbernalis)
+[Return to Gerasimos Moschonas' GitHub Profile for more innovative projects](https://github.com/Gmoschonas)
 
 # Web Service Console Application
 
@@ -68,7 +68,7 @@ The application configuration is managed through the `App.config` file. Update t
 ## Usage
 1. Clone the repository:
 ```sh
-git clone https://github.com/pbernalis/WebServiceConsole.git
+git clone https://github.com/Gmoschonas/WebServiceConsole.git
 ```
 2. Open the project in Visual Studio.
 3. Restore the NuGet packages.
@@ -200,11 +200,11 @@ The application includes an integrated email notification system to inform about
 
 ## Contact
 
-For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/Gmoschonas/) or email at [Gmoschonas@gmail.com](mailto:Gmoschonas@gmail.com).
 
 ## License
 
-This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/Gmoschonas/Gmoschonas/blob/main/blob/main/License.md) file.
 
 
 
