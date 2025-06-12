@@ -1,4 +1,4 @@
-[Return to Panagiotis Bernalis' GitHub Profile for more innovative projects](https://github.com/pbernalis)
+[Return to Gerasimos Moschonas' GitHub Profile for more innovative projects](https://github.com/Gmoschonas)
 
 # Retail Analytics and Market Analysis Project
 
@@ -130,7 +130,7 @@ The results indicate that the model performs well in predicting user behavior bu
 ## How to Run the Code
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/pbernalis/Market-Analysis-R.git]
+    git clone [https://github.com/Gmoschonas/Market-Analysis-R.git]
     cd arket-Analysis-R
     ```
 
@@ -153,8 +153,8 @@ The results indicate that the model performs well in predicting user behavior bu
 This project demonstrates comprehensive data analysis, visualization, and predictive modeling skills using R. The insights derived and the predictive models built can significantly aid in targeted marketing and sales forecasting.
 
 ## Contact
-For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/Gmoschonas/).
 
 ## License
 
-This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/Gmoschonas/Gmoschonas/blob/main/blob/main/License.md) file.
