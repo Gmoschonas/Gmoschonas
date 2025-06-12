@@ -1,4 +1,4 @@
-[Return to Panagiotis Bernalis' GitHub Profile for more innovative projects](https://github.com/pbernalis)
+[Return to Gerasimos Moschonas' GitHub Profile for more innovative projects](https://github.com/Gmoschonas)
 
 # AI Text Analyzer AdaptiveChat AI
 
@@ -139,8 +139,8 @@ In the next version of the code, there will be several fine-tuned models based o
 - **Improved Answer Quality:** This approach will ensure better responses and answers to the prompts, enhancing the overall effectiveness of the tool.
 
 ## Contact
-For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/Gmoschonas/).
 
 ## License
 
-This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/Gmoschonas/Gmoschonas/blob/main/blob/main/License.md) file.
