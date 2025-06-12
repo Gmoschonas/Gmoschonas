@@ -90,10 +90,6 @@ Explore more on my [GitHub](https://github.com/Gmoschonas)!
 
 ---
 
-## 📊 GitHub Stats
-
-![Gerasimos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gmoschonas&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gmoschonas&layout=compact&theme=radical)
 
 ---
 
