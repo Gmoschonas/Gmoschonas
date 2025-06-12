@@ -1,4 +1,4 @@
-[Return to Panagiotis Bernalis' GitHub Profile for more innovative projects](https://github.com/pbernalis)
+[Return to Gerasimos Moschonas' GitHub Profile for more innovative projects](https://github.com/Gmoschonas)
 
 # Python Application with Tkinter - Library Management System
 
@@ -13,7 +13,7 @@ Before installing and running the application, ensure you have the following ins
 - **Tkinter:** Tkinter is usually included in the standard Python installation. If not installed, you can add it via the Python package manager (pip).
 
 ## Installation Instructions
-1. Download or clone the application code from the GitHub repository [BookLibraryManagementSystem](https://github.com/pbernalis/BookLibraryManagementSystem).
+1. Download or clone the application code from the GitHub repository [BookLibraryManagementSystem](https://github.com/Gmoschonas/BookLibraryManagementSystem).
 2. Open a terminal or command line and navigate to the folder where the application code is located.
 3. (Optional) Create a virtual environment for the application:
     ```sh
@@ -165,7 +165,7 @@ Additionally, there is an option to suggest an available book for borrowing, tak
 
 
 ## Contact
-For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/Gmoschonas/).
 
 ## License
-This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/Gmoschonas/Gmoschonas/blob/main/blob/main/License.md) file.
