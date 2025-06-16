@@ -1,4 +1,4 @@
-# Gerasimos Moschonas | Junior Software Developer
+# Gerasimos Moschonas | Software Developer
 
 I am a recent **BSc Computing (Artificial Intelligence)** graduate from the University of Essex (Aegean College, 2024), specializing in **full-stack web development**, **cross-platform mobile applications**, and **AI/ML solutions**. With professional experience at **KMK Marine Consultants** and a robust portfolio of university and personal projects, I am eager to contribute to innovative software solutions.
 
