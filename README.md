@@ -27,7 +27,7 @@ I am a recent **BSc Computing (Artificial Intelligence)** graduate from the Univ
 
 Here’s a selection of my work. Check out the READMEs for details, or contact me for access to private repos!
 
-- **[CRMCore](https://github.com/Gmoschonas/Gmoschonas/blob/main/CRMCore/README.md)**  
+- **[CRMCore](https://github.com/Gmoschonas/Gmoschonas/blob/main/CRMCore/Readme.md)**  
   A comprehensive .NET Core CRM system (diploma thesis) with user authentication, contact management, and sales reporting. Built with Entity Framework Core and SQL Server.
 
 - **[MAUILanguageLearner](https://github.com/Gmoschonas/Gmoschonas/blob/main/MAUILanguageLearner/README.md)**  
