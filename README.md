@@ -45,8 +45,6 @@ Here’s a selection of my work. Check out the READMEs for details, or contact m
 - **[Hospital Information System](https://github.com/Gmoschonas/Gmoschonas/blob/main/Hospital%20Information%20System%20Oracle%20APEX/README.md)**  
   A robust system using Oracle APEX and SQL Developer for hospital data management with role-based access.
 
-Explore more on my [GitHub](https://github.com/Gmoschonas)!
-
 ---
 
 ## 🛠️ Work Experience
