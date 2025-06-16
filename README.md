@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Gerasimos Moschonas!
+# Gerasimos Moschonas | Junior Software Developer
 
-I'm a **Junior Software Developer** with a **BSc in Computing (Artificial Intelligence)** from the University of Essex (Aegean College, 2024). Passionate about crafting innovative solutions, I specialize in **full-stack web development**, **cross-platform mobile apps**, and **AI/ML applications**. With hands-on experience at **KMK Marine Consultants** and a diverse portfolio of university projects, I’m eager to collaborate on impactful software projects.
+I am a recent **BSc Computing (Artificial Intelligence)** graduate from the University of Essex (Aegean College, 2024), specializing in **full-stack web development**, **cross-platform mobile applications**, and **AI/ML solutions**. With professional experience at **KMK Marine Consultants** and a robust portfolio of university and personal projects, I am eager to contribute to innovative software solutions.
 
 🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/gmoschonas/) | [Email](mailto:gerasimos.mosxonas@gmail.com)  
 📍 **Based in**: Athens, Greece
@@ -9,10 +9,7 @@ I'm a **Junior Software Developer** with a **BSc in Computing (Artificial Intell
 
 ## 🚀 About Me
 
-- **Background**: Graduated with a BSc in Computing (AI), focusing on software engineering and AI-driven solutions. My diploma thesis, a **.NET Core CRM system**, showcases my ability to build robust, user-focused applications.
-- **Experience**: Developed database solutions, .NET desktop apps, and a web-based quiz platform at **KMK Marine Consultants** (2023–2024). Built a language-learning mobile app as a self-employed developer at **Humanigram** (2022–2023).
-- **Skills**: Proficient in **.NET (Core, Framework, MAUI)**, **Java**, **Python**, **PHP**, **SQL (MySQL, SQL Server, Oracle)**, and **AI/ML (Keras/TensorFlow, NLP)**. Strong in database design, RESTful APIs, and OOP principles.
-- **Portfolio**: My GitHub hosts a range of projects, from e-commerce platforms to AI text analyzers. Some repos are private—reach out via [LinkedIn](https://www.linkedin.com/in/gmoschonas/) for access!
+I hold a BSc in Computing with a focus on Artificial Intelligence, where I honed my skills in software engineering and AI-driven technologies. My diploma thesis, a **.NET Core CRM system**, highlights my ability to design and implement user-centric applications. At **KMK Marine Consultants** (2023–2024), I developed database solutions and desktop applications, while my self-employed work at **Humanigram** (2022–2023) produced a language-learning mobile app. Explore my GitHub for projects ranging from e-commerce platforms to AI-powered text analyzers.
 
 ---
 
