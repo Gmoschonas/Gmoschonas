@@ -87,11 +87,6 @@ Explore more on my [GitHub](https://github.com/Gmoschonas)!
 
 ---
 
+## 📬 Contact
 
----
-
-## 📬 Get in Touch
-
-Interested in my work or want to collaborate? Message me on [LinkedIn](https://www.linkedin.com/in/gmoschonas/) or email me at [gerasimos.mosxonas@gmail.com](mailto:gerasimos.mosxonas@gmail.com). For access to private repositories, please reach out directly!
-
-Thanks for visiting my profile! 😄
+For any inquiries or access requests, please reach out via Message me on [LinkedIn](https://www.linkedin.com/in/gmoschonas/) or email me at [gerasimos.mosxonas@gmail.com](mailto:gerasimos.mosxonas@gmail.com). 
