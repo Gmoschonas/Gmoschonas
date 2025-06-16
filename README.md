@@ -2,9 +2,6 @@
 
 I am a recent **BSc Computing (Artificial Intelligence)** graduate from the University of Essex (Aegean College, 2024), specializing in **full-stack web development**, **cross-platform mobile applications**, and **AI/ML solutions**. My diploma thesis, a **.NET Core CRM system**, demonstrates my ability to design and implement user-centric applications. During my time at **KMK Marine Consultants** (2023–2024), I developed database solutions and desktop applications, sharpening my software engineering skills. Additionally, my self-employed work at **Humanigram** (2022–2023) produced a language-learning mobile app, highlighting my versatility in creating innovative solutions. Explore my GitHub for a diverse portfolio of projects, ranging from e-commerce platforms to AI-powered text analyzers, reflecting my passion for cutting-edge software development.
 
-🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/gmoschonas/) | [Email](mailto:gerasimos.mosxonas@gmail.com)  
-📍 **Based in**: Athens, Greece
-
 ---
 
 ## 💻 Skills
